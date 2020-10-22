@@ -1,4 +1,12 @@
-﻿using System.Collections;
+﻿/**********************************************************************************************
+ * Name: "Christopher Gugelmeier"                                                             *
+ * Student ID: "101175944"                                                                    *
+ * File name: "EnemyController"                                                               *
+ * Date last modified: "2020-10-21"                                                           *
+ * Script Description: "This script is responsible for the movement of the enemy characters"  *
+ **********************************************************************************************/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

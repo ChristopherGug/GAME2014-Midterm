@@ -1,4 +1,12 @@
-﻿using System.Collections;
+﻿/**********************************************************************************************
+ * Name: "Christopher Gugelmeier"                                                             *
+ * Student ID: "101175944"                                                                    *
+ * File name: "PlayerController"                                                              *
+ * Date last modified: "2020-10-21"                                                           *
+ * Script Description: "This script is responsible for the movement of the player character"  *
+ **********************************************************************************************/
+
+using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;
 using UnityEditor;
